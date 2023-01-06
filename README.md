@@ -6,10 +6,26 @@ Source Code of this port: https://drive.google.com/file/d/1XC8ZYqfik2k4HzId69EZB
 VPK File of this port: https://drive.google.com/file/d/1LVI6dYxPW9KoA6TKIbqjXBPCx6NrBdbh/view?usp=share_link
 
 Snowy Mountain and Dusty Desert doesnt work (You can activate all the level in Unity).
+
 If you are going to play, desactive all the AI Characters (Or it will works very laggy).
+
 The game have less music due to crash errors. (You can put all the music in Unity using the original Source Code)
+
 Online Mode doesnt works.
+
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in dicord: Alfredo2000#6380
+
+Controlls:
+
+X: To select or jump
+
+◻: To in lobby, select the character
+
+Δ: To start the level after select the character
+
+Start: Pause the game
+
+Circle: I dont remember lol
 
 Original README:
 Sanicball is discontinued and I will not be accepting any pull requests. However if you have trouble understanding parts the project structure or code you can message me directly (viciousbadger@protonmail.com), I'll try to help out.
