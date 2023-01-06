@@ -19,15 +19,15 @@ If you like PSVita and you know how to do ports, you can help me whit the code t
 
 Controlls:
 
-X: To select or jump
+X: To select or jump.
 
-◻: To in lobby, select the character
+◻: To in lobby, select the character, and in game, brake.
 
-Δ: To start the level after select the character
+Δ: To start the level after select the character, and in game, restart in one checkpoint.
 
-Start: Pause the game
+Start: Pause the game or more.
 
-Circle: I dont remember lol
+Circle: I dont remember lol.
 
 Original README:
 Sanicball is discontinued and I will not be accepting any pull requests. However if you have trouble understanding parts the project structure or code you can message me directly (viciousbadger@protonmail.com), I'll try to help out.
