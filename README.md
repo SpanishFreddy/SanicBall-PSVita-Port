@@ -1,17 +1,19 @@
 SanicBall PSVita Port
 This is a port for the psvita of the original source code: https://github.com/BK-TN/Sanicball
 
-Source Code of this port: https://drive.google.com/file/d/1XC8ZYqfik2k4HzId69EZBC91hPieMapj/view?usp=share_link
+UPDATE v2!!!
 
-VPK File of this port: https://drive.google.com/file/d/1LVI6dYxPW9KoA6TKIbqjXBPCx6NrBdbh/view?usp=share_link
+Source Code of this port: https://drive.google.com/file/d/1iwkWT7gMu4o1lM3r9UpBZqE19rNNTmK4/view?usp=sharing
 
-Ice Mountain and Dusty Desert doesnt work (You can activate all the level in Unity).
+VPK File of this port: https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQvWZTU/view?usp=sharing
 
-If you are going to play, desactive all the AI Characters (Or it will works very laggy).
+Some of the textures are compressed and more, also, PatnosD helped me to make this port.
 
-The game have less music due to crash errors. (You can put all the music in Unity using the original Source Code)
+If you are going to play, only play whit 6-7 AI Bots (Or it will works very laggy).
 
-Online Mode doesnt works.
+The game have less music and textures due to crash errors. (You can put all in Unity using the original Source Code)
+
+Online Mode dosent works.
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in dicord: Alfredo2000#6380
 
