@@ -5,7 +5,7 @@ Source Code of this port: https://drive.google.com/file/d/1XC8ZYqfik2k4HzId69EZB
 
 VPK File of this port: https://drive.google.com/file/d/1LVI6dYxPW9KoA6TKIbqjXBPCx6NrBdbh/view?usp=share_link
 
-Snowy Mountain and Dusty Desert doesnt work (You can activate all the level in Unity).
+Ice Mountain and Dusty Desert doesnt work (You can activate all the level in Unity).
 
 If you are going to play, desactive all the AI Characters (Or it will works very laggy).
 
