@@ -21,13 +21,13 @@ Controlls:
 
 X: To select or jump.
 
-◻: To in lobby, select the character, and in game, brake.
+◻: To in lobby, select the character.
 
 Δ: To start the level after select the character, and in game, restart in one checkpoint.
 
 Start: Pause the game or more.
 
-Circle: I dont remember lol.
+Circle: Brake the character.
 
 Original README:
 Sanicball is discontinued and I will not be accepting any pull requests. However if you have trouble understanding parts the project structure or code you can message me directly (viciousbadger@protonmail.com), I'll try to help out.
