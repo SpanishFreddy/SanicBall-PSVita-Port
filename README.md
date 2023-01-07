@@ -7,7 +7,7 @@ Source Code of this port: https://drive.google.com/file/d/1iwkWT7gMu4o1lM3r9UpBZ
 
 VPK File of this port: https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQvWZTU/view?usp=sharing
 
-Some of the textures are compressed and more, also, PatnosD helped me to make this port.
+Some of the textures are compressed and more, also, PatnosD helped me.
 
 If you are going to play, only play whit 6-7 AI Bots (Or it will works very laggy).
 
