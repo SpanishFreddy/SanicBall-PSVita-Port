@@ -2,11 +2,13 @@
 
 This is a port for the psvita of the original source code: https://github.com/BK-TN/Sanicball
 
-UPDATE v2!!!
+UPDATE v3 (Final Update) "i think lol"!!!
 
-Source Code of this port: https://drive.google.com/file/d/1iwkWT7gMu4o1lM3r9UpBZqE19rNNTmK4/view?usp=sharing
+Source Code of this port: https://drive.google.com/file/d/17yUAG094ko0KP8tJc5COyroxXQA0nMj1/view?usp=share_link
 
-VPK File of this port: https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQvWZTU/view?usp=sharing
+VPK File of this port: https://drive.google.com/file/d/1vRvL1ow6e9-1lFA3yD0iassrdtsRNPT5/view?usp=share_link
+
+Old VPK File (v2): https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQvWZTU/view?usp=share_link
 
 Some of the textures are compressed and more, also, PatnosD helped me.
 
@@ -14,7 +16,9 @@ If you are going to play, only play whit 6-7 AI Bots (Or it will works very lagg
 
 The game have less music and textures due to crash errors. (You can put all in Unity using the original Source Code)
 
-Online Mode dosent works.
+I deleted the speed line (to have better performance), so, if you want to add it, my source code have it.
+
+Online Mode dosent works. (v4 can have it?...)
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in dicord: Alfredo2000#6380
 
