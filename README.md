@@ -14,6 +14,8 @@ Some of the textures are compressed and more, also, PatnosD helped me.
 
 If you are going to play, only play whit 6-7 AI Bots (Or it will works very laggy).
 
+I recommend you play the game whit the vita overclocked (To have better performance).
+
 The game have less music and textures due to crash errors. (You can put all in Unity using the original Source Code)
 
 I deleted the speed line (to have better performance), so, if you want to add it, my source code have it.
