@@ -12,7 +12,7 @@ Old VPK File (v2): https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQv
 
 Some of the textures are compressed and more, also, PatnosD helped me.
 
-If you are going to play, only play whit 6-7 AI Bots (Or it will works very laggy).
+If you are going to play, only play whit 5-6 AI Bots (Or it will works very laggy).
 
 I recommend you play the game whit the vita overclocked (To have better performance).
 
