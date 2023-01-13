@@ -18,11 +18,15 @@ If you are going to play, only play whit 5-6 AI Bots (Or it will works very lagg
 
 I recommend you play the game whit the vita overclocked (To have better performance).
 
+![sanicballvita7](https://user-images.githubusercontent.com/121837347/212369686-812083d4-5c5f-4cd4-a595-979ed1da5e88.png)
+
 The game have less music and textures due to crash errors. (You can put all in Unity using the original Source Code)
 
 I deleted the speed line (to have better performance), so, if you want to add it, my source code have it.
 
 Online Mode dosent works. (v4 can have it?...)
+
+![sanicballvita6](https://user-images.githubusercontent.com/121837347/212369651-eac32154-1c36-4402-bc2b-ca040559d02c.png)
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
 
