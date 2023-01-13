@@ -28,6 +28,8 @@ Online Mode dosent works. (v4 can have it?...)
 
 ![sanicballvita6](https://user-images.githubusercontent.com/121837347/212369651-eac32154-1c36-4402-bc2b-ca040559d02c.png)
 
+Don't touch so much the settings of the port.
+
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
 
 Controlls:
