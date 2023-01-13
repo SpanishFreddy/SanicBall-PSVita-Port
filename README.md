@@ -2,7 +2,7 @@
 
 This is a port for the psvita of the original source code: https://github.com/BK-TN/Sanicball
 
-UPDATE v3 (Final Update) "i think lol"!!!
+UPDATE v3 (Final Update)!!!
 
 Source Code of this port: https://drive.google.com/file/d/17yUAG094ko0KP8tJc5COyroxXQA0nMj1/view?usp=share_link
 
