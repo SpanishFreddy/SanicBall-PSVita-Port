@@ -4,13 +4,11 @@ This is a port for the psvita of the original source code: https://github.com/BK
 
 ![Sanicballvita2](https://user-images.githubusercontent.com/121837347/212369390-9aa6abe0-8ca8-4e4a-9909-2b16f13e72d2.png)
 
-UPDATE v3 (Final Update)!!!
+NEW UPDATE v4 (The REAL Final Update)!!!
 
-Source Code of this port: https://drive.google.com/file/d/17yUAG094ko0KP8tJc5COyroxXQA0nMj1/view?usp=share_link
+Source Code of this port: https://drive.google.com/file/d/18imyDoQe1jlxW8W_e4o54EmKU_tbQFyr/view?usp=share_link
 
-VPK File of this port: https://drive.google.com/file/d/1vRvL1ow6e9-1lFA3yD0iassrdtsRNPT5/view?usp=share_link
-
-Old VPK File (v2): https://drive.google.com/file/d/1fGsbEf6QlC64ztk_AGTnj_iiRDQvWZTU/view?usp=share_link
+VPK File of this port: https://drive.google.com/file/d/1IHbo_9N3IWVbqmCNVCMpxrpQbPTf0iTc/view?usp=share_link
 
 Some of the textures are compressed and more, also, PatnosD helped me.
 
@@ -22,13 +20,9 @@ I recommend you play the game whit the vita overclocked (To have better performa
 
 The game have less music and textures due to crash errors. (You can put all in Unity using the original Source Code)
 
-I deleted the speed line (to have better performance), so, if you want to add it, my source code have it.
-
-Online Mode dosent works. (v4 can have it?...)
+Online Mode dosent works.
 
 ![sanicballvita6](https://user-images.githubusercontent.com/121837347/212369651-eac32154-1c36-4402-bc2b-ca040559d02c.png)
-
-Don't touch so much the settings of the port.
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
 
