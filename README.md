@@ -24,7 +24,7 @@ Online Mode dosent works.
 
 ![sanicballvita6](https://user-images.githubusercontent.com/121837347/212369651-eac32154-1c36-4402-bc2b-ca040559d02c.png)
 
-If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
+If you like Unity and you know how to do decomps/ports, you can help me whit the code talking whit me in discord: SpanishFreddy#6380
 
 Controlls:
 
